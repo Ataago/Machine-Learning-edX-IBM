@@ -1,6 +1,6 @@
 # Machine-Learning-with-Python
 Machine Learning with Python by IBM
-##Syllabus
+## Syllabus
 
 ### Module 1 - Machine Learning
 - Python for Machine Learning
