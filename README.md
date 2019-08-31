@@ -1,5 +1,9 @@
 # Machine-Learning-with-Python
-Machine Learning with Python by IBM
+Machine Learning with Python by [IBM](https://www.edx.org/course/machine-learning-with-python)
+- Supervised vs Unsupervised Machine Learning
+- How Statistical Modeling relates to Machine Learning, and how to do a comparison of each.
+- Different ways machine learning affects society.
+
 ## Syllabus
 
 ### Module 1 - Machine Learning
