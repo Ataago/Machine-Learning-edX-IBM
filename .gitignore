@@ -105,3 +105,4 @@ venv.bak/
 
 # my ignores
 .DS_Store
+ratings_tooBig.csv
